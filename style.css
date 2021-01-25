@@ -1,0 +1,40 @@
+#conteneur
+ {
+     display: flex;
+     flex-direction: column;
+     justify-content: space-around;
+     align-items: center;
+     background-color: salmon;
+ }
+ section
+ {
+     border: 1px 
+     vertical-align: top;
+
+ }
+@font-face
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+ p
+{
+   width: 50%;
+    text-align: justify;
+    text-align: center;
+    border-style: double;
+    font-style: italic;
+    flex: content;
+    font-size: large;
+    color :white;
+
+}
+header
+{
+    border-color: rgb(12, 2, 22);
+    border-style: solid;
+}
+h1
+{
+    text-align: center;
+}
+
